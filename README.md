@@ -1,6 +1,6 @@
 # Electronic Cats Arduino Boards
 
-Board definitions for electroniccats-manufactured AVR, ARM, and ESP-based Arduino boards.
+Board definitions for Electronic Cats-manufactured AVR, ARM, and ESP-based Arduino boards.
 Based on sparkfun Arduino_Boards to implement diferents cores.
 
 This repository contains support for the following Electronic Cats Arduino-compatible development boards.
@@ -17,7 +17,7 @@ This repository contains support for the following Electronic Cats Arduino-compa
 
 To add board support for our products, start Arduino and open the Preferences window (**File** > **Preferences**). Now copy and paste the following URL into the 'Additional Boards Manager URLs' input field:
 
-	https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json
+	https://raw.githubusercontent.com/wero1414/ArduinoBoards/master/IDE_Board_Manager/package_electroniccats_index.json
 
 
 If there is already an URL from another manufacturer in that field, click the button at the right end of the field. This will open an editing window allowing you to paste the above URL onto a new line.
