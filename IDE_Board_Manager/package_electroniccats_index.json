@@ -103,40 +103,6 @@
                 },
                 {
                   "name": "CMSIS-Atmel",
-                  "version": "1.0.0-mattairtech-1",
-                  "systems": [
-                  {
-                    "host": "i686-mingw32",
-                    "url": "https://www.mattairtech.com/software/arduino/CMSIS-Atmel-1.0.0-mattairtech-1.tar.gz",
-                    "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-1.tar.gz",
-                    "checksum": "SHA-256:63c76204789e844e621f385ea5b1fa6d5614f9507bae3d74035902ad1dd5bba0",
-                    "size": "1386399"
-                  },
-                  {
-                    "host": "x86_64-pc-linux-gnu",
-                    "url": "https://www.mattairtech.com/software/arduino/CMSIS-Atmel-1.0.0-mattairtech-1.tar.gz",
-                    "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-1.tar.gz",
-                    "checksum": "SHA-256:63c76204789e844e621f385ea5b1fa6d5614f9507bae3d74035902ad1dd5bba0",
-                    "size": "1386399"
-                  },
-                  {
-                    "host": "i686-pc-linux-gnu",
-                    "url": "https://www.mattairtech.com/software/arduino/CMSIS-Atmel-1.0.0-mattairtech-1.tar.gz",
-                    "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-1.tar.gz",
-                    "checksum": "SHA-256:63c76204789e844e621f385ea5b1fa6d5614f9507bae3d74035902ad1dd5bba0",
-                    "size": "1386399"
-                  },
-                  {
-                    "host": "x86_64-apple-darwin",
-                    "url": "https://www.mattairtech.com/software/arduino/CMSIS-Atmel-1.0.0-mattairtech-1.tar.gz",
-                    "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-1.tar.gz",
-                    "checksum": "SHA-256:63c76204789e844e621f385ea5b1fa6d5614f9507bae3d74035902ad1dd5bba0",
-                    "size": "1386399"
-                  }
-                  ]
-                },
-                {
-                  "name": "CMSIS-Atmel",
                   "version": "1.0.0-mattairtech-2",
                   "systems": [
                   {
