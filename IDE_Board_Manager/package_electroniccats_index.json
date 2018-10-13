@@ -62,33 +62,6 @@
         }
       ],
       "tools":[
-		{
-			"name": "bossac",
-			"version": "1.5-arduino-mattairtech-1",
-			"systems": [
-			{
-				"host": "i686-mingw32",
-				"url": "https://www.mattairtech.com/software/arduino/bossac-1.5-arduino-mattairtech-1-mingw32.zip",
-				"archiveFileName": "bossac-1.5-arduino-mattairtech-1-mingw32.zip",
-				"checksum": "SHA-256:0249c751f6f96ef659f3a2531f378f9d420c9f9571252b6e8cd85c78f128c3cc",
-				"size": "323032"
-			},
-			{
-				"host": "x86_64-pc-linux-gnu",
-				"url": "https://www.mattairtech.com/software/arduino/bossac-1.5-arduino-mattairtech-1-x86_64-linux-gnu.tar.bz2",
-				"archiveFileName": "bossac-1.5-arduino-mattairtech-1-x86_64-linux-gnu.tar.bz2",
-				"checksum": "SHA-256:f0a03ca1bbd2866d1e1c6b496acb31065c85a54914e51c9c0a278b3d1e10c675",
-				"size": "202673"
-			},
-			{
-				"host": "i686-pc-linux-gnu",
-				"url": "https://www.mattairtech.com/software/arduino/bossac-1.5-arduino-mattairtech-1-i686-linux-gnu.tar.bz2",
-				"archiveFileName": "bossac-1.5-arduino-mattairtech-1-i686-linux-gnu.tar.bz2",
-				"checksum": "SHA-256:f0cba5035a7285a2342c68c09abd3fd9adc4da69e60160a0f8540f1d1229f2e0",
-				"size": "193293"
-			}
-			]
-		},
                 {
                   "name": "bossac",
                   "version": "1.7.0-mattairtech-3",
