@@ -15,8 +15,8 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.5.1.tar.bz2",
-          "archiveFileName": "sparkfun-samd-1.5.1.tar.bz2",
-          "checksum": "SHA-256:774052679A88EA43F5CEA2BAD88398E7310D4B879B8745613648D9F09BCB26DA",
+          "archiveFileName": "electronic_cats_SAMD21_MATT_1.0.0.zip",
+          "checksum": "SHA-256:8cd0d828fa15fbe2ffdad1a09e12cff7ecf727352c0dfc5b42f8686d7320f46b",
           "size": "323505",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
