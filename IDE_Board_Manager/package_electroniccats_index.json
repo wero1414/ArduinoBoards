@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/wero1414/ArduinoBoards/blob/master/IDE_Board_Manager/electronic_cats_SAMD21_MATT_1.0.0.zip",
           "archiveFileName": "electronic_cats_SAMD21_MATT_1.0.0.zip",
-          "checksum": "SHA-256:8cd0d828fa15fbe2ffdad1a09e12cff7ecf727352c0dfc5b42f8686d7320f46b",
-          "size": "323505",
+          "checksum": "SHA-256: 8cd0d828fa15fbe2ffdad1a09e12cff7ecf727352c0dfc5b42f8686d7320f46b",
+          "size": "1618834",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
