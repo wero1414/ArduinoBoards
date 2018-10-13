@@ -23,19 +23,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "CatWAN Relay"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "CatWAN USB-Stick"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
-            },
-            {
-              "name": "LilyPad LilyMini"
-            },
-            {
-              "name": "Sparkfun SAMD21 Pro RF"
+              "name": "Bast-M0"
             }
           ],
           "toolsDependencies": [
