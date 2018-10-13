@@ -10,9 +10,9 @@
       },
       "platforms": [
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "Electronic Cats (Bassed on MattairTech)",
           "architecture": "samd",
-          "version": "1.5.1",
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.5.1.tar.bz2",
           "archiveFileName": "sparkfun-samd-1.5.1.tar.bz2",
